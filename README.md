@@ -32,7 +32,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Use the same file to write all your queries.***
 3. ***Select the entire query and run it to see the output.***
 4. ***Save the file as your_file_name.sql and upload it in github.***
-5. ***Refer dml-select-2.sql file.*** 
+5. ***Refer dml-select-joins.sql file.*** 
 
 ## ER diagram
 
