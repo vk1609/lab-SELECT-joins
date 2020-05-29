@@ -34,12 +34,6 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 4. ***Save the file as your_file_name.sql and upload it in github.***
 5. ***Refer dml-select-joins.sql file.*** 
 
-## ER diagram
-
-![sql](https://i1.faceprep.in/ProGrad/sql-ddl-lab2.png)
-
-![sql](https://i1.faceprep.in/ProGrad/sql-ddl-lab1-instructions.png)
-
 
 ## PROGRESSION 0:
 1. You will have two files create-tables.sql and insert-queries.sql.
